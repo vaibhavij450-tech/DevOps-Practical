@@ -1,0 +1,2 @@
+This is my first DevOps practical.
+Successfully pushing code to GitHub using Git Bash.
